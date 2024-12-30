@@ -5,6 +5,7 @@ https://www.zcyphygeodesy.com/en/h-nd-149.html
     The Poisson integral is the solution of the first boundary value problem in the mathematical sense, and the boundary surface need be not an equipotential surface.
     The edge effect of the Poisson integral here is small, which can effectively suppress the attenuation of short-wave signals, and is suitable for upward and downward analytical continuation.
     You can call this function repeatedly to iteratively perform the Poisson integral operation. In general, once iteration and at most 3 iterations are sufficient to meet the accuracy requirements in most cases.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAg8_zltwYo8NG05gIwpQ047gg.jpg)
 ## [Main program for test entrance]
     Poissonnumericalintegral.f90
     Input parameters: dr - the integral radius (m).
